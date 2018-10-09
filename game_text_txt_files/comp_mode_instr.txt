@@ -1,0 +1,14 @@
+COMP MODE:
+
+Enter a secret code and watch as the computer
+gets it in as few tries as possible!
+
+The code is a 4 length combination of the following 5 colors:
+
+[R]ed, [G]reen, [B]lue, [Y]ellow, [O]range, and [P]urple
+
+Input your code as a 4 letter string
+(e.g. RGBY or rgby)
+
+SPECIAL COMMANDS:
+- QUIT: quit out of the game

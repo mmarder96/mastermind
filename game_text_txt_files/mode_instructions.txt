@@ -1,0 +1,8 @@
+							  How to Play:
+
+Welcome to MASTERMIND!!!
+the world famous code cracking game!
+
+Please begin by entering your desired game mode in the console below:
+- [U]ser Mode: The computer generates a code and you try to crack it!
+- [C]omp Mode: You enter a code for the computer to try and crack!
