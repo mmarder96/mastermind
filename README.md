@@ -1,4 +1,4 @@
-# mastermind
+# Mastermind
 A python implementation of the famous board game Mastermind.
 
 Created by Max Marder, Sam Nguan, and Michelle Nihland.
